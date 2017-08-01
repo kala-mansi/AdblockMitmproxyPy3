@@ -1,0 +1,11 @@
+tanx.com
+*.bshare.cn/*.js
+jiathis.com
+umeng.com/*.js
+weibo.com/*.js
+push.*.baidu.com
+*click*baidu.com
+cbjs.baidu.com
+track.*.com/*.js
+mediav.com
+cpro.baidu*.com
